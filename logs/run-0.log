@@ -1,0 +1,8 @@
+exit=1 seconds=888
+--- stdout
+
+--- stderr
+  File "/work/experiment.py", line 137
+    main()"
+          ^
+SyntaxError: unterminated string literal (detected at line 137)
